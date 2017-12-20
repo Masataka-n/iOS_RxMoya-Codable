@@ -1,0 +1,6 @@
+framework module Pods_RxMoya_Codable {
+  umbrella header "Pods-RxMoya+Codable-umbrella.h"
+
+  export *
+  module * { export * }
+}
